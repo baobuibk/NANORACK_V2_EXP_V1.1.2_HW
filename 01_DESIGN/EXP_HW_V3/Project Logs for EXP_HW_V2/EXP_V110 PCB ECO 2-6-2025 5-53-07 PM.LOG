@@ -1,0 +1,449 @@
+Removed Pin From Net: NetName=IRQ_1 Pin=J1-8
+Removed Pin From Net: NetName=CAM_D1_N Pin=J1-13
+Removed Pin From Net: NetName=GND_CAM Pin=J1-14
+Removed Pin From Net: NetName=CAM_CK_N Pin=J1-15
+Removed Pin From Net: NetName=CAM_IO1 Pin=J1-16
+Removed Pin From Net: NetName=CAM_SCL Pin=J1-17
+Removed Pin From Net: NetName=GND_CAM Pin=J1-18
+Removed Pin From Net: NetName=+5_CAM Pin=J1-21
+Removed Pin From Net: NetName=IRQ_0 Pin=J1-29
+Removed Pin From Net: NetName=CAM_D1_P Pin=J1-34
+Removed Pin From Net: NetName=GND_CAM Pin=J1-35
+Removed Pin From Net: NetName=CAM_CK_P Pin=J1-36
+Removed Pin From Net: NetName=CAM_IO0 Pin=J1-37
+Removed Pin From Net: NetName=CAM_SDA Pin=J1-38
+Removed Pin From Net: NetName=GND_CAM Pin=J1-39
+Removed Pin From Net: NetName=CAM_SEL0 Pin=J1-40
+Removed Pin From Net: NetName=CM4_SDA Pin=J1-41
+Removed Pin From Net: NetName=GND_CAM Pin=J1-42
+Removed Pin From Net: NetName=LASER_SCK Pin=J2-05
+Removed Pin From Net: NetName=LASER_SW_INT_CS Pin=J2-06
+Removed Pin From Net: NetName=LASER_MOSI Pin=J2-07
+Removed Pin From Net: NetName=LASER_SW_EXT_CS Pin=J2-08
+Removed Pin From Net: NetName=LASER_MISO Pin=J2-09
+Removed Pin From Net: NetName=LASER_DAC_CS Pin=J2-10
+Removed Pin From Net: NetName=LASER_ADC1 Pin=J2-11
+Removed Pin From Net: NetName=LASER_ADC2 Pin=J2-13
+Removed Pin From Net: NetName=PHOTO_SCK Pin=J4-3
+Removed Pin From Net: NetName=PHOTO_MOSI Pin=J4-4
+Removed Pin From Net: NetName=PHOTO_MISO Pin=J4-5
+Removed Pin From Net: NetName=PHOTO_PD_CS Pin=J4-6
+Removed Pin From Net: NetName=PHOTO_ADC_CS Pin=J4-7
+Removed Pin From Net: NetName=PHOTO_ADC_CONV Pin=J4-8
+Removed Pin From Net: NetName=PHOTO_ADC_EOC Pin=J4-9
+Removed Pin From Net: NetName=GND Pin=J6-S1
+Removed Pin From Net: NetName=GND Pin=J6-S2
+Removed Pin From Net: NetName=GND Pin=J12-4
+Removed Pin From Net: NetName=3V3_EXP Pin=J12-5
+Removed Pin From Net: NetName=12_EXP Pin=R1-1
+Removed Pin From Net: NetName=+12 Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=TVS6-3
+Removed Pin From Net: NetName=3V3_EXP Pin=TVS7-2
+Removed Pin From Net: NetName=GND Pin=TVS7-3
+Removed Pin From Net: NetName=NetR1_2 Pin=U1-1
+Removed Pin From Net: NetName=NetR1_2 Pin=U1-1
+Removed Member From Class: ClassName=HEADER_2 Member=J6
+Removed Member From Class: ClassName=MCU Member=J12
+Removed Member From Class: ClassName=POWER Member=R8
+Removed Member From Class: ClassName=MCU Member=TVS6
+Removed Member From Class: ClassName=MCU Member=TVS7
+Change Component Footprint: Designator=J6 Old Footprint=0532610271 New Footprint=JP7-C1C
+Change Component Footprint: Designator=J2 Old Footprint=ESQ-107-37-G-D New Footprint=0532610271
+Change Footprint: Footprint Not Found RES-SMD-0603-EXP-V101
+Change Component Footprint: Designator=D4 Old Footprint=sod-123 New Footprint=DO214-AC-SMA
+Change Component Comment : Designator=C6 Old Comment=0.22uF/10V New Comment=0.22uF/25V
+Change Component Comment : Designator=C10 Old Comment=0.22uF/10V New Comment=0.22uF/25V
+Change Component Comment : Designator=R118 Old Comment=1k/DNP New Comment=10k/DNP
+Change Component Comment : Designator=R5 Old Comment=2k2 New Comment=4.7k
+Change Component Comment : Designator=R42 Old Comment=4.7k New Comment=10k
+Change Component Comment : Designator=R43 Old Comment=4.7k New Comment=10k
+Change Component Comment : Designator=R90 Old Comment=10k New Comment=4.7k
+Change Component Comment : Designator=R91 Old Comment=10k New Comment=4.7k
+Change Component Comment : Designator=R92 Old Comment=10k New Comment=4.7k
+Change Component Comment : Designator=R93 Old Comment=10k New Comment=4.7k
+Change Component Comment : Designator=R99 Old Comment=10k New Comment=4.7k
+Change Component Comment : Designator=R100 Old Comment=10k New Comment=4.7k
+Change Component Comment : Designator=R1 Old Comment=10k New Comment=11k
+Change Component Comment : Designator=R8 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=C9 Old Comment=100uF/10V New Comment=100uF/25V
+Change Component Comment : Designator=R6 Old Comment=130k New Comment=47k
+Change Component Comment : Designator=J6 Old Comment=0532610271 New Comment=JP7
+Change Component Comment : Designator=D4 Old Comment=DSS14U New Comment=SS54
+Change Component Comment : Designator=J2 Old Comment=ESQ-107-37-G-D New Comment=0532610271
+Change Component Comment : Designator=TVS3 Old Comment=S2305 New Comment=S2303
+Change Component Comment : Designator=TVS4 Old Comment=S2305 New Comment=S2303
+Change component parameters: Designator = "J6" ("J6"); Footprint = "0532610271"; UniqueID = "\GQWKREEH" ("\GQWKREEH")
+Change component parameters (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "07"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partNo"; Value = "613007143121"; VariantName = "[No Variations]"
+Added Component: Designator=C152(CN-SMD-0603-EXP-V101)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C153(CN-SMD-0603-EXP-V101)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C154(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C155(CAP_C_1608X80)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C156(CAP_C_1608X80)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=J3(0532611771)
+Added Component: Designator=J5(ESQ-107-37-G-D)
+Add Component: Footprint Not Found RES-SMD-0603-EXP-V101
+Add Component: Footprint Not Found RES-SMD-0603-EXP-V101
+Add Component: Footprint Not Found RES-SMD-0603-EXP-V101
+Add Component: Footprint Not Found RES-SMD-0603-EXP-V101
+Add Component: Footprint Not Found RES-SMD-0603-EXP-V101
+Add Component: Footprint Not Found RES-SMD-0603-EXP-V101
+Add Component: Footprint Not Found RES-SMD-0603-EXP-V101
+Add Component: Footprint Not Found RES-SMD-0603-EXP-V101
+Add Component: Footprint Not Found RES-SMD-0603-EXP-V101
+Add Component: Footprint Not Found RES-SMD-0603-EXP-V101
+Add Component: Footprint Not Found RES-SMD-0603-EXP-V101
+Add Component: Footprint Not Found RES-SMD-0603-EXP-V101
+Add Component: Footprint Not Found RES-SMD-0603-EXP-V101
+Add Component: Footprint Not Found RES-SMD-0603-EXP-V101
+Add Component: Footprint Not Found RES-SMD-0603-EXP-V101
+Added Component: Designator=R135(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R136(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R137(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R138(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R139(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R140(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R141(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R142(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R143(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R144(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R145(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R146(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R147(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R148(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=U22(MB85RS2MTAPNF-G-BDERE1)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "865-1286-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/fujitsu-electronics-america-inc/MB85RS2MTAPNF-G-BDERE1/865-1286-1-ND/7916252?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Fujitsu Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MB85RS2MTAPNF-G-BDERE1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-8 Fujitsu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MB85RS2MTAPNF-G-BDERE1/Fujitsu%20Electronics%20America%2C%20Inc./view-part/2344795/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C71-2
+Added Pin To Net: NetName=GND Pin=C73-1
+Added Pin To Net: NetName=+5 Pin=C75-2
+Added Pin To Net: NetName=GND Pin=C77-1
+Added Pin To Net: NetName=+5 Pin=C79-2
+Added Pin To Net: NetName=GND Pin=C81-1
+Added Pin To Net: NetName=+5 Pin=C121-2
+Added Pin To Net: NetName=+5 Pin=C122-2
+Added Pin To Net: NetName=GND Pin=C152-1
+Added Pin To Net: NetName=LASER_ADC1 Pin=C152-2
+Added Pin To Net: NetName=GND Pin=C153-1
+Added Pin To Net: NetName=LASER_ADC2 Pin=C153-2
+Added Pin To Net: NetName=GND Pin=C154-1
+Added Pin To Net: NetName=+5 Pin=C154-2
+Added Pin To Net: NetName=3V3_EXP Pin=C155-2
+Added Pin To Net: NetName=GND Pin=C156-1
+Added Pin To Net: NetName=+5 Pin=D4-1
+Added Pin To Net: NetName=+5_CAM Pin=J1-1
+Added Pin To Net: NetName=CM4_SCL Pin=J1-2
+Added Pin To Net: NetName=CAM_SEL1 Pin=J1-3
+Added Pin To Net: NetName=GND_CAM Pin=J1-4
+Added Pin To Net: NetName=CAM_SCL Pin=J1-5
+Added Pin To Net: NetName=CAM_IO1 Pin=J1-6
+Added Pin To Net: NetName=CAM_CK_N Pin=J1-7
+Added Pin To Net: NetName=GND_CAM Pin=J1-8
+Added Pin To Net: NetName=CAM_D1_N Pin=J1-9
+Added Pin To Net: NetName=+5 Pin=J1-13
+Added Pin To Net: NetName=IRQ_1 Pin=J1-14
+Added Pin To Net: NetName=ISO_RS485_T- Pin=J1-15
+Added Pin To Net: NetName=ISO_RS485_T+ Pin=J1-16
+Added Pin To Net: NetName=ISO_CANH Pin=J1-18
+Added Pin To Net: NetName=12_EXP Pin=J1-19
+Added Pin To Net: NetName=12_EXP Pin=J1-20
+Added Pin To Net: NetName=12_EXP Pin=J1-21
+Added Pin To Net: NetName=GND_CAM Pin=J1-22
+Added Pin To Net: NetName=CM4_SDA Pin=J1-23
+Added Pin To Net: NetName=CAM_SEL0 Pin=J1-24
+Added Pin To Net: NetName=GND_CAM Pin=J1-25
+Added Pin To Net: NetName=CAM_SDA Pin=J1-26
+Added Pin To Net: NetName=CAM_IO0 Pin=J1-27
+Added Pin To Net: NetName=CAM_CK_P Pin=J1-28
+Added Pin To Net: NetName=GND_CAM Pin=J1-29
+Added Pin To Net: NetName=CAM_D1_P Pin=J1-30
+Added Pin To Net: NetName=GND Pin=J1-34
+Added Pin To Net: NetName=IRQ_0 Pin=J1-35
+Added Pin To Net: NetName=ISO_RS485_R- Pin=J1-36
+Added Pin To Net: NetName=ISO_RS485_R+ Pin=J1-37
+Added Pin To Net: NetName=ISO_CANL Pin=J1-39
+Added Pin To Net: NetName=GND Pin=J1-40
+Added Pin To Net: NetName=GND Pin=J1-41
+Added Pin To Net: NetName=GND Pin=J1-42
+Added Pin To Net: NetName=CAM_SEL0 Pin=J2-1
+Added Pin To Net: NetName=CAM_SEL1 Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-S1
+Added Pin To Net: NetName=GND Pin=J2-S2
+Added Pin To Net: NetName=GND_CAM Pin=J3-1
+Added Pin To Net: NetName=CAM_D0_N Pin=J3-2
+Added Pin To Net: NetName=CAM_D0_P Pin=J3-3
+Added Pin To Net: NetName=GND_CAM Pin=J3-4
+Added Pin To Net: NetName=CAM_D1_N Pin=J3-5
+Added Pin To Net: NetName=CAM_D1_P Pin=J3-6
+Added Pin To Net: NetName=GND_CAM Pin=J3-7
+Added Pin To Net: NetName=CAM_CK_N Pin=J3-8
+Added Pin To Net: NetName=CAM_CK_P Pin=J3-9
+Added Pin To Net: NetName=CAM_IO0 Pin=J3-10
+Added Pin To Net: NetName=CAM_IO1 Pin=J3-11
+Added Pin To Net: NetName=CAM_SCL Pin=J3-12
+Added Pin To Net: NetName=CAM_SDA Pin=J3-13
+Added Pin To Net: NetName=CM4_SCL Pin=J3-14
+Added Pin To Net: NetName=CM4_SDA Pin=J3-15
+Added Pin To Net: NetName=GND_CAM Pin=J3-16
+Added Pin To Net: NetName=+5_CAM Pin=J3-17
+Added Pin To Net: NetName=GND Pin=J3-S1
+Added Pin To Net: NetName=GND Pin=J3-S2
+Added Pin To Net: NetName=12_EXP Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-S1
+Added Pin To Net: NetName=GND Pin=J4-S2
+Added Pin To Net: NetName=12_EXP Pin=J5-02
+Added Pin To Net: NetName=12_EXP Pin=J5-04
+Added Pin To Net: NetName=3V3_EXP Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=NetR118_2 Pin=J6-7
+Added Pin To Net: NetName=NetR1_2 Pin=R6-1
+Added Pin To Net: NetName=LASER_SW_INT_CS Pin=R8-1
+Added Pin To Net: NetName=+5 Pin=R42-2
+Added Pin To Net: NetName=+5 Pin=R43-2
+Added Pin To Net: NetName=+5 Pin=R102-2
+Added Pin To Net: NetName=IR_LED_PWM Pin=R103-2
+Added Pin To Net: NetName=IR_LED_PWM Pin=R104-2
+Add Pin To Net: Unknown Pin: Pin R120-2
+Add Pin To Net: Unknown Pin: Pin R121-1
+Add Pin To Net: Unknown Pin: Pin R122-2
+Add Pin To Net: Unknown Pin: Pin R123-1
+Add Pin To Net: Unknown Pin: Pin R124-2
+Add Pin To Net: Unknown Pin: Pin R125-1
+Add Pin To Net: Unknown Pin: Pin R126-2
+Add Pin To Net: Unknown Pin: Pin R127-2
+Add Pin To Net: Unknown Pin: Pin R128-2
+Add Pin To Net: Unknown Pin: Pin R129-2
+Add Pin To Net: Unknown Pin: Pin R130-2
+Add Pin To Net: Unknown Pin: Pin R131-2
+Add Pin To Net: Unknown Pin: Pin R132-2
+Add Pin To Net: Unknown Pin: Pin R133-2
+Add Pin To Net: Unknown Pin: Pin R134-2
+Added Pin To Net: NetName=3V3_EXP Pin=R135-1
+Added Pin To Net: NetName=NetR56_1 Pin=R136-1
+Added Pin To Net: NetName=3V3_EXP Pin=R136-2
+Added Pin To Net: NetName=3V3_EXP Pin=R137-1
+Added Pin To Net: NetName=GND Pin=R138-2
+Added Pin To Net: NetName=3V3_EXP Pin=R139-1
+Added Pin To Net: NetName=3V3_EXP Pin=R140-1
+Added Pin To Net: NetName=TEC_SCK Pin=R142-1
+Added Pin To Net: NetName=TEC_MOSI Pin=R143-1
+Added Pin To Net: NetName=TEC_MISO Pin=R144-1
+Added Pin To Net: NetName=3V3_EXP Pin=R145-1
+Added Pin To Net: NetName=TEC_1_C\S\ Pin=R145-2
+Added Pin To Net: NetName=3V3_EXP Pin=R146-1
+Added Pin To Net: NetName=TEC_2_C\S\ Pin=R146-2
+Added Pin To Net: NetName=3V3_EXP Pin=R147-1
+Added Pin To Net: NetName=TEC_3_C\S\ Pin=R147-2
+Added Pin To Net: NetName=3V3_EXP Pin=R148-1
+Added Pin To Net: NetName=TEC_4_C\S\ Pin=R148-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-2
+Added Pin To Net: NetName=+5 Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-4
+Added Pin To Net: NetName=GND Pin=U11-9
+Added Pin To Net: NetName=GND Pin=U11-15
+Added Pin To Net: NetName=+5 Pin=U11-16
+Added Pin To Net: NetName=GND Pin=U12-5
+Added Pin To Net: NetName=+5 Pin=U12-8
+Added Pin To Net: NetName=+5 Pin=U19-6
+Added Pin To Net: NetName=GND Pin=U22-4
+Added Pin To Net: NetName=3V3_EXP Pin=U22-8
+Change Net Name : Old Net Name=3V3_EXP New Net Name=NTC1+
+Change Net Name : Old Net Name=IR_LED_1+ New Net Name=IR_LED_P
+Change Net Name : Old Net Name=IR_LED_1- New Net Name=NetC123_1
+Change Net Name : Old Net Name=NetR118_2 New Net Name=BOOT_0
+Added Pin To Net: NetName=FRAM_C\S\ Pin=R141-1
+Added Net: Name=FRAM_C\S\
+Added Pin To Net: NetName=GND_12_EXP Pin=J4-2
+Added Pin To Net: NetName=GND_12_EXP Pin=J5-01
+Added Pin To Net: NetName=GND_12_EXP Pin=J5-03
+Added Net: Name=GND_12_EXP
+Added Pin To Net: NetName=ISO_SCL Pin=J1-17
+Added Pin To Net: NetName=ISO_SCL Pin=R42-1
+Added Pin To Net: NetName=ISO_SCL Pin=U10-3
+Added Net: Name=ISO_SCL
+Added Pin To Net: NetName=ISO_SDA Pin=J1-38
+Added Pin To Net: NetName=ISO_SDA Pin=R43-1
+Added Pin To Net: NetName=ISO_SDA Pin=U10-2
+Added Net: Name=ISO_SDA
+Added Pin To Net: NetName=NetC155_1 Pin=C155-1
+Added Pin To Net: NetName=NetC155_1 Pin=C156-2
+Added Net: Name=NetC155_1
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Net: Name=NetJ4_3
+Added Pin To Net: NetName=NetJ4_4 Pin=J4-4
+Added Net: Name=NetJ4_4
+Added Pin To Net: NetName=NetJ4_5 Pin=J4-5
+Added Net: Name=NetJ4_5
+Added Pin To Net: NetName=NetJ4_6 Pin=J4-6
+Added Net: Name=NetJ4_6
+Added Pin To Net: NetName=NetJ4_7 Pin=J4-7
+Added Net: Name=NetJ4_7
+Added Pin To Net: NetName=NetJ4_8 Pin=J4-8
+Added Net: Name=NetJ4_8
+Added Pin To Net: NetName=NetJ4_9 Pin=J4-9
+Added Net: Name=NetJ4_9
+Added Pin To Net: NetName=NetJ5_05 Pin=J5-05
+Added Pin To Net: NetName=NetJ5_05 Pin=R8-2
+Added Net: Name=NetJ5_05
+Added Pin To Net: NetName=NetJ5_06 Pin=J5-06
+Added Net: Name=NetJ5_06
+Added Pin To Net: NetName=NetJ5_07 Pin=J5-07
+Added Net: Name=NetJ5_07
+Added Pin To Net: NetName=NetJ5_08 Pin=J5-08
+Added Net: Name=NetJ5_08
+Added Pin To Net: NetName=NetJ5_09 Pin=J5-09
+Added Net: Name=NetJ5_09
+Added Pin To Net: NetName=NetJ5_10 Pin=J5-10
+Added Net: Name=NetJ5_10
+Added Pin To Net: NetName=NetJ5_11 Pin=J5-11
+Added Net: Name=NetJ5_11
+Added Pin To Net: NetName=NetJ5_12 Pin=J5-12
+Added Net: Name=NetJ5_12
+Added Pin To Net: NetName=NetJ5_14 Pin=J5-14
+Added Net: Name=NetJ5_14
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=NetJ6_3 Pin=R115-2
+Added Net: Name=NetJ6_3
+Added Pin To Net: NetName=NetJ6_4 Pin=J6-4
+Added Pin To Net: NetName=NetJ6_4 Pin=R116-2
+Added Net: Name=NetJ6_4
+Added Pin To Net: NetName=NetJ6_5 Pin=J6-5
+Added Pin To Net: NetName=NetJ6_5 Pin=R117-2
+Added Net: Name=NetJ6_5
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR135_2 Pin=R135-2
+Added Pin To Net: NetName=NetR135_2 Pin=U1-3
+Added Net: Name=NetR135_2
+Added Pin To Net: NetName=NetR137_2 Pin=R137-2
+Added Pin To Net: NetName=NetR137_2 Pin=R138-1
+Added Pin To Net: NetName=NetR137_2 Pin=U20-37
+Added Net: Name=NetR137_2
+Added Pin To Net: NetName=NetR139_2 Pin=R139-2
+Added Pin To Net: NetName=NetR139_2 Pin=R141-2
+Added Pin To Net: NetName=NetR139_2 Pin=U22-1
+Added Net: Name=NetR139_2
+Added Pin To Net: NetName=NetR140_2 Pin=R140-2
+Added Pin To Net: NetName=NetR140_2 Pin=U22-3
+Added Pin To Net: NetName=NetR140_2 Pin=U22-7
+Added Net: Name=NetR140_2
+Added Pin To Net: NetName=NetR142_2 Pin=R142-2
+Added Pin To Net: NetName=NetR142_2 Pin=U22-6
+Added Net: Name=NetR142_2
+Added Pin To Net: NetName=NetR143_2 Pin=R143-2
+Added Pin To Net: NetName=NetR143_2 Pin=U22-5
+Added Net: Name=NetR143_2
+Added Pin To Net: NetName=NetR144_2 Pin=R144-2
+Added Pin To Net: NetName=NetR144_2 Pin=U22-2
+Added Net: Name=NetR144_2
+Added Class: Name=FRAM
+Added Differential Pair: Name=CAM_CK
+Added Differential Pair: Name=CAM_D0
+Added Differential Pair: Name=CAM_D1
+Added Member To Class: ClassName=HEADER_1 Member=Component C152 0.22uF/10V
+Added Member To Class: ClassName=HEADER_1 Member=Component C153 0.22uF/10V
+Added Member To Class: ClassName=IR_LED Member=Component C154 0.1uF/10V
+Added Member To Class: ClassName=HEADER_1 Member=Component J3 0532611771
+Added Member To Class: ClassName=HEADER_1 Member=Component J5 ESQ-107-37-G-D
+Added Member To Class: ClassName=MCU Member=Component J6 JP7
+Added Member To Class: ClassName=HEADER_1 Member=Component R8 22R
+Add Class Member: Failed to add class member : Component R120 22R
+Add Class Member: Failed to add class member : Component R121 22R
+Add Class Member: Failed to add class member : Component R122 22R
+Add Class Member: Failed to add class member : Component R123 22R
+Add Class Member: Failed to add class member : Component R124 22R
+Add Class Member: Failed to add class member : Component R125 22R
+Add Class Member: Failed to add class member : Component R126 22R
+Add Class Member: Failed to add class member : Component R127 22R
+Add Class Member: Failed to add class member : Component R128 22R
+Add Class Member: Failed to add class member : Component R129 22R
+Add Class Member: Failed to add class member : Component R130 22R
+Add Class Member: Failed to add class member : Component R131 22R
+Add Class Member: Failed to add class member : Component R132 22R
+Add Class Member: Failed to add class member : Component R133 22R
+Add Class Member: Failed to add class member : Component R134 22R
+Added Member To Class: ClassName=POWER Member=Component R135 10k
+Added Member To Class: ClassName=EXP_OBC_COMM Member=Component R136 4.7k
+Added Member To Class: ClassName=MCU Member=Component R137 10k/DNP
+Added Member To Class: ClassName=MCU Member=Component R138 10k/DNP
+Added Member To Class: ClassName=TEC_DRV Member=Component R145 4.7k
+Added Member To Class: ClassName=TEC_DRV Member=Component R146 4.7k
+Added Member To Class: ClassName=TEC_DRV Member=Component R147 4.7k
+Added Member To Class: ClassName=TEC_DRV Member=Component R148 4.7k

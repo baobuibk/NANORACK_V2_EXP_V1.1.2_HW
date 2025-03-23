@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=C122-1
+Removed Pin From Net: NetName=+5 Pin=C122-2
+Removed Member From Class: ClassName=IR_LED Member=C122

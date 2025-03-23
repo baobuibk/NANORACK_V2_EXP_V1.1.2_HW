@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=ISO_RS485_T- Pin=J1-15
+Removed Pin From Net: NetName=ISO_RS485_T+ Pin=J1-16
+Removed Pin From Net: NetName=ISO_RS485_R- Pin=J1-36
+Removed Pin From Net: NetName=ISO_RS485_R+ Pin=J1-37
+Removed Member From Class: ClassName=HEADER_1 Member=J5
+Change Component Designator: OldDesignator=J5 NewDesignator=J12
+Change Component Description : Designator=R102 Old Description=RES 0.1 OHM 1% 1W 1206
+PN: PE1206FRF470R1L New Description=RES 0.2 OHM 1% 1W 1206
+Added Pin To Net: NetName=ISO_RS485_R- Pin=J1-15
+Added Pin To Net: NetName=ISO_RS485_R+ Pin=J1-16
+Added Pin To Net: NetName=ISO_RS485_T- Pin=J1-36
+Added Pin To Net: NetName=ISO_RS485_T+ Pin=J1-37
+Change Net Name : Old Net Name=NetJ5_05 New Net Name=NetJ12_05
+Change Net Name : Old Net Name=NetJ5_06 New Net Name=NetJ12_06
+Change Net Name : Old Net Name=NetJ5_07 New Net Name=NetJ12_07
+Change Net Name : Old Net Name=NetJ5_08 New Net Name=NetJ12_08
+Change Net Name : Old Net Name=NetJ5_09 New Net Name=NetJ12_09
+Change Net Name : Old Net Name=NetJ5_10 New Net Name=NetJ12_10
+Change Net Name : Old Net Name=NetJ5_11 New Net Name=NetJ12_11
+Change Net Name : Old Net Name=NetJ5_12 New Net Name=NetJ12_12
+Change Net Name : Old Net Name=NetJ5_14 New Net Name=NetJ12_14
+Added Member To Class: ClassName=HEADER_1 Member=Component J12 ESQ-107-48-G-D

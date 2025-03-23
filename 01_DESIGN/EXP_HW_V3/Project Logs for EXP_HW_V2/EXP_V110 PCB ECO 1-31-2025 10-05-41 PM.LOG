@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=GND Pin=C70_1_1-1
+Removed Pin From Net: NetName=HEATER_1_A Pin=C70_1_1-2
+Removed Pin From Net: NetName=GND Pin=C72_1_1-1
+Removed Pin From Net: NetName=HEATER_1_A Pin=C72_1_1-2
+Removed Pin From Net: NetName=GND Pin=C74_1_1-1
+Removed Pin From Net: NetName=HEATER_1_A Pin=C74_1_1-2
+Removed Pin From Net: NetName=GND Pin=C80_1_1-1
+Removed Pin From Net: NetName=HEATER_1_A Pin=C80_1_1-2
+Removed Pin From Net: NetName=NetC64_1 Pin=L5_1_1-1
+Removed Pin From Net: NetName=TEC_4_B Pin=L5_1_1-2
+Removed Pin From Net: NetName=GND Pin=U14_1_1-1
+Removed Pin From Net: NetName=NetC69_2 Pin=U14_1_1-2
+Removed Pin From Net: NetName=NetC64_2 Pin=U14_1_1-3
+Removed Pin From Net: NetName=HEATER_1_A Pin=U14_1_1-4
+Removed Pin From Net: NetName=GND Pin=U14_1_1-5
+Removed Pin From Net: NetName=NetC64_1 Pin=U14_1_1-6
+Removed Pin From Net: NetName=NetC64_1 Pin=U14_1_1-7
+Removed Pin From Net: NetName=TEC_4_A Pin=U14_1_1-8
+Removed Pin From Net: NetName=TEC_4_A Pin=U14_1_1-9
+Removed Pin From Net: NetName=GND Pin=U14_1_1-10
+Removed Pin From Net: NetName=HEATER_1_A Pin=U14_1_1-11
+Removed Pin From Net: NetName=TEC_4_B Pin=U14_1_1-12
+Removed Pin From Net: NetName=NetR30_2 Pin=U14_1_1-13
+Removed Pin From Net: NetName=3V3_EXP Pin=U14_1_1-14
+Removed Pin From Net: NetName=TEC_4_C\S\ Pin=U14_1_1-15
+Removed Pin From Net: NetName=TEC_SCK Pin=U14_1_1-16
+Removed Pin From Net: NetName=TEC_MOSI Pin=U14_1_1-17
+Removed Pin From Net: NetName=TEC_MISO Pin=U14_1_1-18
+Removed Pin From Net: NetName=NetR32_2 Pin=U14_1_1-19
+Removed Pin From Net: NetName=TEC_4_ADC Pin=U14_1_1-20
+Removed Pin From Net: NetName=GND Pin=U14_1_1-21
+Removed Pin From Net: NetName=GND Pin=U14_1_1-22
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Add Pin To Net: Unknown Pin: Pin J3-6
+Add Pin To Net: Unknown Pin: Pin J3-7
+Add Pin To Net: Unknown Pin: Pin J3-8
+Add Pin To Net: Unknown Pin: Pin J3-9
+Add Pin To Net: Unknown Pin: Pin J3-10
+Add Pin To Net: Unknown Pin: Pin J3-11
+Add Pin To Net: Unknown Pin: Pin J3-12
+Add Pin To Net: Unknown Pin: Pin J3-13
+Add Pin To Net: Unknown Pin: Pin J3-14
+Add Pin To Net: Unknown Pin: Pin J3-15
+Add Pin To Net: Unknown Pin: Pin J3-17
+Add Pin To Net: Unknown Pin: Pin J3-S1
+Add Pin To Net: Unknown Pin: Pin J3-S2
+Add Class Member: Failed to add class member : Component J3 0532611771

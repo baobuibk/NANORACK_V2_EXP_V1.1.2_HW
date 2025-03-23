@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+3.3 Pin=C139-2
+Removed Pin From Net: NetName=GND Pin=C147-1
+Removed Member From Class: ClassName=MCU Member=C139
+Removed Member From Class: ClassName=MCU Member=C147
+Added Component: Designator=R30(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TEC_4_SWEN Pin=R30-1
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Member To Class: ClassName=TEC_DRV Member=Component R30 22R

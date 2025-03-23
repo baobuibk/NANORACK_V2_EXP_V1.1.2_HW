@@ -1,0 +1,10 @@
+Added Component: Designator=C122(CAP_C_1608X80)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C139(CAP_C_1608X80)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C122-1
+Added Pin To Net: NetName=+5_TEC_HEATER Pin=C122-2
+Added Pin To Net: NetName=GND Pin=C139-1
+Added Pin To Net: NetName=+5_TEC_HEATER Pin=C139-2
+Added Member To Class: ClassName=HEATER Member=Component C122 0.1uF/10V
+Added Member To Class: ClassName=HEATER Member=Component C139 0.1uF/10V

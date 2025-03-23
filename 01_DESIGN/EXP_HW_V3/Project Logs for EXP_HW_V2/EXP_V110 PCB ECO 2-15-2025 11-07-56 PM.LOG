@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=IRQ_1 Pin=U20-66
+Added Pin To Net: NetName=IRQ_0 Pin=U20-67
+Added Pin To Net: NetName=FRAM_C\S\ Pin=U20-83

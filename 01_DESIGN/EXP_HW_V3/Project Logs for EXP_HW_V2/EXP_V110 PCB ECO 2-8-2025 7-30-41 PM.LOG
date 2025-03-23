@@ -1,0 +1,28 @@
+Added Component: Designator=J3(0532611571)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/532611571/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "532611571"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/532611571/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/532611571/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_CAM Pin=J3-1
+Added Pin To Net: NetName=CAM_D0_N Pin=J3-2
+Added Pin To Net: NetName=CAM_D0_P Pin=J3-3
+Added Pin To Net: NetName=CAM_D1_N Pin=J3-4
+Added Pin To Net: NetName=CAM_D1_P Pin=J3-5
+Added Pin To Net: NetName=CAM_CK_N Pin=J3-6
+Added Pin To Net: NetName=CAM_CK_P Pin=J3-7
+Added Pin To Net: NetName=CAM_IO0 Pin=J3-8
+Added Pin To Net: NetName=CAM_IO1 Pin=J3-9
+Added Pin To Net: NetName=CAM_SCL Pin=J3-10
+Added Pin To Net: NetName=CAM_SDA Pin=J3-11
+Added Pin To Net: NetName=CM4_SCL Pin=J3-12
+Added Pin To Net: NetName=CM4_SDA Pin=J3-13
+Added Pin To Net: NetName=GND_CAM Pin=J3-14
+Added Pin To Net: NetName=+5_CAM Pin=J3-15
+Added Pin To Net: NetName=GND Pin=J3-S1
+Added Pin To Net: NetName=GND Pin=J3-S2
+Added Member To Class: ClassName=HEADER_1 Member=Component J3 0532611571

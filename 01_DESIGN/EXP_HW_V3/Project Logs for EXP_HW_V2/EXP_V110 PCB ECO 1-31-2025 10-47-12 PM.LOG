@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=J8_1-1
+Removed Pin From Net: NetName=3V3_EXP Pin=J8_1-2
+Removed Pin From Net: NetName=NetJ8_3 Pin=J8_1-3
+Removed Pin From Net: NetName=NetJ8_4 Pin=J8_1-4
+Removed Pin From Net: NetName=GND Pin=J9_1-1
+Removed Pin From Net: NetName=3V3_EXP Pin=J9_1-2
+Removed Pin From Net: NetName=NetJ9_3 Pin=J9_1-3
+Removed Pin From Net: NetName=NetJ9_4 Pin=J9_1-4
+Change Component Footprint: Designator=R90 Old Footprint=RES-SMD-0603 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R91 Old Footprint=RES-SMD-0603 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R92 Old Footprint=RES-SMD-0603 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R93 Old Footprint=RES-SMD-0603 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R94 Old Footprint=RES-SMD-0603 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R95 Old Footprint=RES-SMD-0603 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R96 Old Footprint=RES-SMD-0603 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R97 Old Footprint=RES-SMD-0603 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R98 Old Footprint=RES-SMD-0603 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R99 Old Footprint=RES-SMD-0603 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R100 Old Footprint=RES-SMD-0603 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R101 Old Footprint=RES-SMD-0603 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=U17 Old Footprint=tssop8 New Footprint=TSOP8
+Change Component Footprint: Designator=U18 Old Footprint=tssop8 New Footprint=TSOP8
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Add Pin To Net: Unknown Pin: Pin J3-6
+Add Pin To Net: Unknown Pin: Pin J3-7
+Add Pin To Net: Unknown Pin: Pin J3-8
+Add Pin To Net: Unknown Pin: Pin J3-9
+Add Pin To Net: Unknown Pin: Pin J3-10
+Add Pin To Net: Unknown Pin: Pin J3-11
+Add Pin To Net: Unknown Pin: Pin J3-12
+Add Pin To Net: Unknown Pin: Pin J3-13
+Add Pin To Net: Unknown Pin: Pin J3-14
+Add Pin To Net: Unknown Pin: Pin J3-15
+Add Pin To Net: Unknown Pin: Pin J3-17
+Add Pin To Net: Unknown Pin: Pin J3-S1
+Add Pin To Net: Unknown Pin: Pin J3-S2
+Add Class Member: Failed to add class member : Component J3 0532611771

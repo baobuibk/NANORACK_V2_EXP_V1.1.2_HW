@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LASER_SW_INT_CS Pin=U20-43
+Removed Pin From Net: NetName=LASER_DAC_CS Pin=U20-45
+Added Pin To Net: NetName=LASER_DAC_CS Pin=U20-43
+Added Pin To Net: NetName=LASER_SW_INT_CS Pin=U20-45
