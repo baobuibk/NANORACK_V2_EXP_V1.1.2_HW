@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VTEC_ADC_4 Pin=U8-9
+Removed Pin From Net: NetName=VTEC_ADC_4 Pin=U9-15
+Change Net Name : Old Net Name=VTEC_ADC_4 New Net Name=NetR154_2
+Added Pin To Net: NetName=VTEC_ADC_4 Pin=U8-9
+Added Pin To Net: NetName=VTEC_ADC_4 Pin=U9-15
+Added Net: Name=VTEC_ADC_4

@@ -1,0 +1,240 @@
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=5V_TEMP Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=5V_TEMP Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=TEC1_VREF_2.5 Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=TEC2_VREF_2.5 Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=TEC_1_A Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=TEC_2_A Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=NetC31_2 Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=NetC34_2 Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=5V_TEMP Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=5V_TEMP Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=TEC3_VREF_2.5 Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=TEC4_VREF_2.5 Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=TEC_3_A Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=TEC_4_A Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=NetC42_2 Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=TEC_1_B Pin=L2-2
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=TEC_2_B Pin=L3-2
+Added Pin To Net: NetName=NetL4_1 Pin=L4-1
+Added Pin To Net: NetName=TEC_3_B Pin=L4-2
+Added Pin To Net: NetName=NetL5_1 Pin=L5-1
+Added Pin To Net: NetName=TEC_4_B Pin=L5-2
+Added Pin To Net: NetName=5V_TEMP Pin=R21-1
+Added Pin To Net: NetName=NetC22_2 Pin=R21-2
+Added Pin To Net: NetName=5V_TEMP Pin=R22-1
+Added Pin To Net: NetName=NetC23_2 Pin=R22-2
+Added Pin To Net: NetName=TEC1_VREF_2.5 Pin=R23-1
+Added Pin To Net: NetName=ILIM_1 Pin=R23-2
+Added Pin To Net: NetName=TEC2_VREF_2.5 Pin=R24-1
+Added Pin To Net: NetName=ILIM_2 Pin=R24-2
+Added Pin To Net: NetName=ILIM_1 Pin=R27-1
+Added Pin To Net: NetName=GND Pin=R27-2
+Added Pin To Net: NetName=ILIM_2 Pin=R28-1
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Pin To Net: NetName=TEC1_VREF_2.5 Pin=R31-1
+Added Pin To Net: NetName=VLIM_1 Pin=R31-2
+Added Pin To Net: NetName=TEC2_VREF_2.5 Pin=R32-1
+Added Pin To Net: NetName=VLIM_2 Pin=R32-2
+Added Pin To Net: NetName=TEC1_CONTROL_VOLT Pin=R33-1
+Added Pin To Net: NetName=NetC30_2 Pin=R33-2
+Added Pin To Net: NetName=TEC2_CONTROL_VOLT Pin=R34-1
+Added Pin To Net: NetName=NetC31_2 Pin=R34-2
+Added Pin To Net: NetName=VLIM_1 Pin=R35-1
+Added Pin To Net: NetName=GND Pin=R35-2
+Added Pin To Net: NetName=VLIM_2 Pin=R36-1
+Added Pin To Net: NetName=GND Pin=R36-2
+Added Pin To Net: NetName=5V_TEMP Pin=R37-1
+Added Pin To Net: NetName=NetC34_2 Pin=R37-2
+Added Pin To Net: NetName=5V_TEMP Pin=R39-1
+Added Pin To Net: NetName=NetC35_2 Pin=R39-2
+Added Pin To Net: NetName=TEC3_VREF_2.5 Pin=R56-1
+Added Pin To Net: NetName=ILIM_3 Pin=R56-2
+Added Pin To Net: NetName=TEC4_VREF_2.5 Pin=R57-1
+Added Pin To Net: NetName=ILIM_4 Pin=R57-2
+Added Pin To Net: NetName=ILIM_3 Pin=R136-1
+Added Pin To Net: NetName=GND Pin=R136-2
+Added Pin To Net: NetName=ILIM_4 Pin=R137-1
+Added Pin To Net: NetName=GND Pin=R137-2
+Added Pin To Net: NetName=TEC3_VREF_2.5 Pin=R146-1
+Added Pin To Net: NetName=VLIM_3 Pin=R146-2
+Added Pin To Net: NetName=TEC4_VREF_2.5 Pin=R147-1
+Added Pin To Net: NetName=VLIM_4 Pin=R147-2
+Added Pin To Net: NetName=TEC3_CONTROL_VOLT Pin=R148-1
+Added Pin To Net: NetName=NetC42_2 Pin=R148-2
+Added Pin To Net: NetName=TEC4_CONTROL_VOLT Pin=R150-1
+Added Pin To Net: NetName=NetC43_2 Pin=R150-2
+Added Pin To Net: NetName=VLIM_3 Pin=R151-1
+Added Pin To Net: NetName=GND Pin=R151-2
+Added Pin To Net: NetName=VLIM_4 Pin=R152-1
+Added Pin To Net: NetName=GND Pin=R152-2
+Added Pin To Net: NetName=NetU5_1 Pin=U5-1
+Added Pin To Net: NetName=NetU5_1 Pin=U5-2
+Added Pin To Net: NetName=VLIM_1 Pin=U5-3
+Added Pin To Net: NetName=ILIM_1 Pin=U5-4
+Added Pin To Net: NetName=NetC22_2 Pin=U5-5
+Added Pin To Net: NetName=TEC1_VREF_2.5 Pin=U5-6
+Added Pin To Net: NetName=GND Pin=U5-7
+Added Pin To Net: NetName=NetR25_2 Pin=U5-8
+Added Pin To Net: NetName=VTEC_ADC_1 Pin=U5-9
+Added Pin To Net: NetName=TEC_1_B Pin=U5-10
+Added Pin To Net: NetName=ITEC_ADC_1 Pin=U5-11
+Added Pin To Net: NetName=GND Pin=U5-12
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=NetL2_1 Pin=U5-14
+Added Pin To Net: NetName=5V_TEMP Pin=U5-15
+Added Pin To Net: NetName=5V_TEMP Pin=U5-16
+Added Pin To Net: NetName=TEC_1_A Pin=U5-17
+Added Pin To Net: NetName=GND Pin=U5-18
+Added Pin To Net: NetName=GND Pin=U5-19
+Added Pin To Net: NetName=GND Pin=U5-22
+Added Pin To Net: NetName=GND Pin=U5-23
+Added Pin To Net: NetName=NetC30_2 Pin=U5-24
+Added Pin To Net: NetName=GND Pin=U5-25
+Added Pin To Net: NetName=NetU6_1 Pin=U6-1
+Added Pin To Net: NetName=NetU6_1 Pin=U6-2
+Added Pin To Net: NetName=VLIM_2 Pin=U6-3
+Added Pin To Net: NetName=ILIM_2 Pin=U6-4
+Added Pin To Net: NetName=NetC23_2 Pin=U6-5
+Added Pin To Net: NetName=TEC2_VREF_2.5 Pin=U6-6
+Added Pin To Net: NetName=GND Pin=U6-7
+Added Pin To Net: NetName=NetR26_2 Pin=U6-8
+Added Pin To Net: NetName=VTEC_ADC_2 Pin=U6-9
+Added Pin To Net: NetName=TEC_2_B Pin=U6-10
+Added Pin To Net: NetName=ITEC_ADC_2 Pin=U6-11
+Added Pin To Net: NetName=GND Pin=U6-12
+Added Pin To Net: NetName=GND Pin=U6-13
+Added Pin To Net: NetName=NetL3_1 Pin=U6-14
+Added Pin To Net: NetName=5V_TEMP Pin=U6-15
+Added Pin To Net: NetName=5V_TEMP Pin=U6-16
+Added Pin To Net: NetName=TEC_2_A Pin=U6-17
+Added Pin To Net: NetName=GND Pin=U6-18
+Added Pin To Net: NetName=GND Pin=U6-19
+Added Pin To Net: NetName=GND Pin=U6-22
+Added Pin To Net: NetName=GND Pin=U6-23
+Added Pin To Net: NetName=NetC31_2 Pin=U6-24
+Added Pin To Net: NetName=GND Pin=U6-25
+Added Pin To Net: NetName=NetU7_1 Pin=U7-1
+Added Pin To Net: NetName=NetU7_1 Pin=U7-2
+Added Pin To Net: NetName=VLIM_3 Pin=U7-3
+Added Pin To Net: NetName=ILIM_3 Pin=U7-4
+Added Pin To Net: NetName=NetC34_2 Pin=U7-5
+Added Pin To Net: NetName=TEC3_VREF_2.5 Pin=U7-6
+Added Pin To Net: NetName=GND Pin=U7-7
+Added Pin To Net: NetName=NetR118_2 Pin=U7-8
+Added Pin To Net: NetName=VTEC_ADC_3 Pin=U7-9
+Added Pin To Net: NetName=TEC_3_B Pin=U7-10
+Added Pin To Net: NetName=ITEC_ADC_3 Pin=U7-11
+Added Pin To Net: NetName=GND Pin=U7-12
+Added Pin To Net: NetName=GND Pin=U7-13
+Added Pin To Net: NetName=NetL4_1 Pin=U7-14
+Added Pin To Net: NetName=5V_TEMP Pin=U7-15
+Added Pin To Net: NetName=5V_TEMP Pin=U7-16
+Added Pin To Net: NetName=TEC_3_A Pin=U7-17
+Added Pin To Net: NetName=GND Pin=U7-18
+Added Pin To Net: NetName=GND Pin=U7-19
+Added Pin To Net: NetName=GND Pin=U7-22
+Added Pin To Net: NetName=GND Pin=U7-23
+Added Pin To Net: NetName=NetC42_2 Pin=U7-24
+Added Pin To Net: NetName=GND Pin=U7-25
+Added Pin To Net: NetName=NetU8_1 Pin=U8-1
+Added Pin To Net: NetName=NetU8_1 Pin=U8-2
+Added Pin To Net: NetName=VLIM_4 Pin=U8-3
+Added Pin To Net: NetName=ILIM_4 Pin=U8-4
+Added Pin To Net: NetName=NetC35_2 Pin=U8-5
+Added Pin To Net: NetName=TEC4_VREF_2.5 Pin=U8-6
+Added Pin To Net: NetName=GND Pin=U8-7
+Added Pin To Net: NetName=NetR119_2 Pin=U8-8
+Added Pin To Net: NetName=VTEC_ADC_4 Pin=U8-9
+Added Pin To Net: NetName=TEC_4_B Pin=U8-10
+Added Pin To Net: NetName=ITEC_ADC_4 Pin=U8-11
+Added Pin To Net: NetName=GND Pin=U8-12
+Added Pin To Net: NetName=GND Pin=U8-13
+Added Pin To Net: NetName=NetL5_1 Pin=U8-14
+Added Pin To Net: NetName=5V_TEMP Pin=U8-15
+Added Pin To Net: NetName=5V_TEMP Pin=U8-16
+Added Pin To Net: NetName=TEC_4_A Pin=U8-17
+Added Pin To Net: NetName=GND Pin=U8-18
+Added Pin To Net: NetName=GND Pin=U8-19
+Added Pin To Net: NetName=GND Pin=U8-22
+Added Pin To Net: NetName=GND Pin=U8-23
+Added Pin To Net: NetName=NetC43_2 Pin=U8-24
+Added Pin To Net: NetName=GND Pin=U8-25
+Added Member To Class: ClassName=TEC_DRV Member=Component C22 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C23 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C24 10uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C25 10uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C26 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C27 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C28 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C29 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C30 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C31 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C34 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C35 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C36 10uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C37 10uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C38 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C39 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C40 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C41 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C42 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C43 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component L2 1uH
+Added Member To Class: ClassName=TEC_DRV Member=Component L3 1uH
+Added Member To Class: ClassName=TEC_DRV Member=Component L4 1uH
+Added Member To Class: ClassName=TEC_DRV Member=Component L5 1uH
+Added Member To Class: ClassName=TEC_DRV Member=Component R21 10R
+Added Member To Class: ClassName=TEC_DRV Member=Component R22 10R
+Added Member To Class: ClassName=TEC_DRV Member=Component R23 Var
+Added Member To Class: ClassName=TEC_DRV Member=Component R24 Var
+Added Member To Class: ClassName=TEC_DRV Member=Component R27 Var
+Added Member To Class: ClassName=TEC_DRV Member=Component R28 Var
+Added Member To Class: ClassName=TEC_DRV Member=Component R31 Var
+Added Member To Class: ClassName=TEC_DRV Member=Component R32 Var
+Added Member To Class: ClassName=TEC_DRV Member=Component R33 1k
+Added Member To Class: ClassName=TEC_DRV Member=Component R34 1k
+Added Member To Class: ClassName=TEC_DRV Member=Component R35 Var
+Added Member To Class: ClassName=TEC_DRV Member=Component R36 Var
+Added Member To Class: ClassName=TEC_DRV Member=Component R37 10R
+Added Member To Class: ClassName=TEC_DRV Member=Component R39 10R
+Added Member To Class: ClassName=TEC_DRV Member=Component R56 Var
+Added Member To Class: ClassName=TEC_DRV Member=Component R57 Var
+Added Member To Class: ClassName=TEC_DRV Member=Component R136 Var
+Added Member To Class: ClassName=TEC_DRV Member=Component R137 Var
+Added Member To Class: ClassName=TEC_DRV Member=Component R146 Var
+Added Member To Class: ClassName=TEC_DRV Member=Component R147 Var
+Added Member To Class: ClassName=TEC_DRV Member=Component R148 1k
+Added Member To Class: ClassName=TEC_DRV Member=Component R150 1k
+Added Member To Class: ClassName=TEC_DRV Member=Component R151 Var
+Added Member To Class: ClassName=TEC_DRV Member=Component R152 Var
+Added Member To Class: ClassName=TEC_DRV Member=Component U5 ADN8834
+Added Member To Class: ClassName=TEC_DRV Member=Component U6 ADN8834
+Added Member To Class: ClassName=TEC_DRV Member=Component U7 ADN8834
+Added Member To Class: ClassName=TEC_DRV Member=Component U8 ADN8834
