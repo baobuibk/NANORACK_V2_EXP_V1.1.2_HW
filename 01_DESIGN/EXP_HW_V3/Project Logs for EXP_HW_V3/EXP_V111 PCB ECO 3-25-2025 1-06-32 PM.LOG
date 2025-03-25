@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VTEC_ADC_1 Pin=U9-2
+Removed Pin From Net: NetName=ITEC_ADC_1 Pin=U9-4
+Removed Pin From Net: NetName=VTEC_ADC_2 Pin=U9-6
+Removed Pin From Net: NetName=ITEC_ADC_2 Pin=U9-8
+Removed Pin From Net: NetName=VTEC_ADC_3 Pin=U9-11
+Removed Pin From Net: NetName=ITEC_ADC_3 Pin=U9-13
+Removed Pin From Net: NetName=VTEC_ADC_4 Pin=U9-15
+Removed Pin From Net: NetName=ITEC_ADC_4 Pin=U9-17
+Added Pin To Net: NetName=ITEC_ADC_1 Pin=U9-2
+Added Pin To Net: NetName=VTEC_ADC_1 Pin=U9-4
+Added Pin To Net: NetName=ITEC_ADC_2 Pin=U9-6
+Added Pin To Net: NetName=VTEC_ADC_2 Pin=U9-8
+Added Pin To Net: NetName=ITEC_ADC_3 Pin=U9-11
+Added Pin To Net: NetName=VTEC_ADC_3 Pin=U9-13
+Added Pin To Net: NetName=ITEC_ADC_4 Pin=U9-15
+Added Pin To Net: NetName=VTEC_ADC_4 Pin=U9-17
+Added Member To Class: ClassName=TEC_DRV Member=Component C40 0.1uF/10V
