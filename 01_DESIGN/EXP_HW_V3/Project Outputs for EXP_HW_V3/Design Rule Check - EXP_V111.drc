@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\LAB\NANORACK_V2_EXP_1.1.1_HW\01_DESIGN\EXP_HW_V3\EXP_V111.PcbDoc
 Date     : 3/28/2025
-Time     : 5:15:12 PM
+Time     : 7:45:56 PM
 
 Processing Rule : Clearance Constraint (Gap=0.178mm) (NOT InNet('PROTECT_EMI') and NOT OnLayer('Keep-Out Layer')),(not OnLayer('Keep-out Layer'))
 Rule Violations :0
@@ -54,4 +54,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:19
