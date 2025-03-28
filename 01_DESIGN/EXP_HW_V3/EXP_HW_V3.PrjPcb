@@ -67,40 +67,6 @@ GenerateClassCluster=0
 DocumentUniqueId=JOOPCWFU
 
 [Document2]
-DocumentPath=EXP_HW_V3.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BMDZOSMT
-
-[Document3]
-DocumentPath=EXP_HW_V3.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=STGSPROF
-
-[Document4]
 DocumentPath=HEADER_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDNRTMHR
 
-[Document5]
+[Document3]
 DocumentPath=HEADER_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OFWMJEHR
 
-[Document6]
+[Document4]
 DocumentPath=POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UDTQZRCP
 
-[Document7]
+[Document5]
 DocumentPath=TEC_DRV.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZUORYDYE
 
-[Document8]
+[Document6]
 DocumentPath=HEATER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CXGBEQVS
 
-[Document9]
+[Document7]
 DocumentPath=NTC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZYOPKKGU
 
-[Document10]
+[Document8]
 DocumentPath=I2C_Sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KXAPMKTV
 
-[Document11]
+[Document9]
 DocumentPath=IR_LED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PQQNXYJY
 
-[Document12]
+[Document10]
 DocumentPath=FRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SAQICLMG
 
-[Document13]
+[Document11]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BJKODADE
 
-[Document14]
+[Document12]
 DocumentPath=..\..\0_LAB_LIB\LABLIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AGNYTDXW
 
-[Document15]
+[Document13]
 DocumentPath=EXP_V111.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JUDHNQEP
 
-[Document16]
+[Document14]
 DocumentPath=EXP_HW_V3.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document15]
 DocumentPath=EXP_HW_V2.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document16]
 DocumentPath=..\..\05_SMT\EXP_V110.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RAZJXDMA
 
-[Document19]
+[Document17]
 DocumentPath=EXP_HW_V3.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,103 +338,141 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document18]
+DocumentPath=EXP_HW_V3.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document19]
+DocumentPath=EXP_HW_V3.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=STGSPROF
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for EXP_HW_V2\Design Rule Check - EXP_V110.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.DRR
+DocumentPath=Project Outputs for EXP_HW_V3\Design Rule Check - EXP_V111.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.EXTREP
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.G1
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.G2
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.G1
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GBL
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.G2
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GBO
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GBP
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GBS
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GD1
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GG1
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GKO
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GM
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GPB
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GM
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GPT
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GTL
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GTO
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GTP
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GTS
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.LDP
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.REP
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.TXT
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.REP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.xls
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for EXP_HW_V2\Pick Place for EXP_V110.csv
+DocumentPath=Project Outputs for EXP_HW_V2\EXP_V110.xls
 DItemRevisionGUID=
 
 [GeneratedDocument25]
+DocumentPath=Project Outputs for EXP_HW_V2\Pick Place for EXP_V110.csv
+DItemRevisionGUID=
+
+[GeneratedDocument26]
 DocumentPath=Project Outputs for EXP_HW_V2\Pick Place for EXP_V110.txt
 DItemRevisionGUID=
 
@@ -646,7 +650,7 @@ OutputDefault1=0
 Name=Documentation Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputType1=Composite
 OutputName1=Composite Drawing
 OutputDocumentPath1=
@@ -718,7 +722,9 @@ OutputName12=Schematic Prints
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.65|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=Letter|PaperIndex=1
+Configuration12_Name1=OutputConfigurationParameter1
+Configuration12_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=D:\LAB\NANORACK_V2_EXP_1.1.1_HW\01_DESIGN\EXP_HW_V3\TEC_DRV.SchDoc
 OutputType13=SimView Print
 OutputName13=SimView Prints
 OutputDocumentPath13=

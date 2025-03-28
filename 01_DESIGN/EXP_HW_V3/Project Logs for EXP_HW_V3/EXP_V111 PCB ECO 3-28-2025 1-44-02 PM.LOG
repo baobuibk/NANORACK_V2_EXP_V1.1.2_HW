@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C2 Old Footprint=TANTALUM_SMD_1206 New Footprint=TANTALUM-SMD-1206
+Change Component Footprint: Designator=C8 Old Footprint=TANTALUM_SMD_1206 New Footprint=TANTALUM-SMD-1206
+Change Component Footprint: Designator=C13 Old Footprint=TANTALUM_SMD_1206 New Footprint=TANTALUM-SMD-1206
+Change Component Footprint: Designator=C18 Old Footprint=TANTALUM_SMD_1206 New Footprint=TANTALUM-SMD-1206
+Change Component Comment : Designator=C2 Old Comment=33uF/10V New Comment=33uF/16V
+Change Component Comment : Designator=C8 Old Comment=33uF/10V New Comment=33uF/16V
+Change Component Comment : Designator=C13 Old Comment=33uF/10V New Comment=33uF/16V
+Change Component Comment : Designator=C18 Old Comment=33uF/10V New Comment=33uF/16V
