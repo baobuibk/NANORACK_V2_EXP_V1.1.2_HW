@@ -2,97 +2,27 @@
 FileName = EXP_V121.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mid-Layer 2
-      File : EXP_V121.G2
+Generating : Top Overlay
+      File : EXP_V121.GTO
 
-    Adding Layer      : Mid-Layer 2
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
+    D10
+    D11
+    D12
     D13
+    D14
     D15
-    D24
-    D134
-    D135
-    D137
-    D138
-    D139
-    D140
-    D141
-    D142
-    D143
-    D144
-    D145
-    D148
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : EXP_V121.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D26
-    D27
-    D31
-    D42
-    D134
-    D135
-    D136
-    D137
-    D138
-    D139
-    D140
-    D141
-    D142
-    D143
-    D144
-    D149
-    D150
-    D151
-    D152
-    D153
-    D154
-    D155
-    D156
-    D157
-    D158
-    D159
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : EXP_V121.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D24
-    D26
-    D27
-    D31
-    D42
-    D149
-    D150
-    D151
-    D152
-    D153
-    D154
-    D155
-    D156
-    D158
-    D159
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
 *************************************************************
 
 *************************************************************
@@ -167,6 +97,50 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Solder
+      File : EXP_V121.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D72
+    D73
+    D78
+    D90
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D157
+    D160
+    D161
+    D162
+    D163
+    D164
+    D165
+    D166
+    D167
+    D168
+    D169
+    D170
+    D171
+    D172
+    D173
+*************************************************************
+
+*************************************************************
 Generating : Top Paste
       File : EXP_V121.GTP
 
@@ -227,88 +201,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : EXP_V121.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D15
-    D16
-    D24
-    D26
-    D27
-    D31
-    D42
-    D130
-    D134
-    D135
-    D136
-    D137
-    D138
-    D139
-    D140
-    D141
-    D142
-    D143
-    D144
-    D145
-    D149
-    D150
-    D151
-    D152
-    D153
-    D154
-    D155
-    D156
-    D157
-    D158
-    D159
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : EXP_V121.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D177
-    D178
-*************************************************************
-
-*************************************************************
-Generating : Mid-Layer 1
-      File : EXP_V121.G1
-
-    Adding Layer      : Mid-Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D24
-    D134
-    D135
-    D137
-    D138
-    D139
-    D140
-    D141
-    D142
-    D143
-    D144
-    D145
-    D146
-    D147
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : EXP_V121.GTL
 
@@ -318,7 +210,7 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D13
+    D14
     D15
     D16
     D24
@@ -389,27 +281,129 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : EXP_V121.GTO
+Generating : Mid-Layer 2
+      File : EXP_V121.G2
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Mid-Layer 2
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
+    D14
+    D15
+    D24
+    D134
+    D135
+    D136
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D148
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : EXP_V121.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
     D14
     D15
     D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
+    D24
+    D28
+    D29
+    D33
+    D44
+    D130
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D149
+    D150
+    D151
+    D152
+    D153
+    D154
+    D155
+    D156
+    D157
+    D158
+    D159
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : EXP_V121.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D28
+    D29
+    D33
+    D44
+    D149
+    D150
+    D151
+    D152
+    D153
+    D154
+    D155
+    D156
+    D158
+    D159
+*************************************************************
+
+*************************************************************
+Generating : Mid-Layer 1
+      File : EXP_V121.G1
+
+    Adding Layer      : Mid-Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D134
+    D135
+    D136
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
 *************************************************************
 
 *************************************************************
@@ -434,6 +428,56 @@ Used DCodes :
     D174
     D175
     D176
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : EXP_V121.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D177
+    D178
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : EXP_V121.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D33
+    D44
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D149
+    D150
+    D151
+    D152
+    D153
+    D154
+    D155
+    D156
+    D157
+    D158
+    D159
 *************************************************************
 
 *************************************************************
@@ -510,50 +554,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : EXP_V121.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D24
-    D71
-    D72
-    D77
-    D89
-    D117
-    D118
-    D119
-    D120
-    D121
-    D122
-    D123
-    D124
-    D125
-    D126
-    D157
-    D160
-    D161
-    D162
-    D163
-    D164
-    D165
-    D166
-    D167
-    D168
-    D169
-    D170
-    D171
-    D172
-    D173
-*************************************************************
-
-*************************************************************
 Generating : Drill Drawing
       File : EXP_V121.GD1
 
@@ -563,7 +563,7 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D20
+    D18
     D179
 *************************************************************
 
@@ -577,7 +577,7 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D20
+    D18
 *************************************************************
 
 *************************************************************
