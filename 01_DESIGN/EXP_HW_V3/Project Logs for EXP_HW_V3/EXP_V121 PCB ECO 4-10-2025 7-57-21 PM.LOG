@@ -1,0 +1,56 @@
+Change Component Designator: OldDesignator=DAC1 NewDesignator=U11
+Change Component Designator: OldDesignator=DAC2 NewDesignator=U20
+Change Component Designator: OldDesignator=DAC3 NewDesignator=U23
+Change Component Designator: OldDesignator=DAC4 NewDesignator=U24
+Added Component: Designator=C48(CAP_C_1608X80)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C49(CAP_C_1608X80)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C50(CAP_C_1608X80)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C51(CAP_C_1608X80)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=R163(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R164(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R165(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R166(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C48-1
+Added Pin To Net: NetName=+3.3 Pin=C48-2
+Added Pin To Net: NetName=GND Pin=C49-1
+Added Pin To Net: NetName=+3.3 Pin=C49-2
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=+3.3 Pin=C50-2
+Added Pin To Net: NetName=GND Pin=C51-1
+Added Pin To Net: NetName=+3.3 Pin=C51-2
+Added Pin To Net: NetName=+3.3 Pin=R163-1
+Added Pin To Net: NetName=DAC_nCS_1 Pin=R163-2
+Added Pin To Net: NetName=+3.3 Pin=R164-1
+Added Pin To Net: NetName=DAC_nCS_2 Pin=R164-2
+Added Pin To Net: NetName=+3.3 Pin=R165-1
+Added Pin To Net: NetName=DAC_nCS_3 Pin=R165-2
+Added Pin To Net: NetName=+3.3 Pin=R166-1
+Added Pin To Net: NetName=DAC_nCS_4 Pin=R166-2
+Added Member To Class: ClassName=TEC_DRV Member=Component C48 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C49 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C50 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component C51 0.1uF/10V
+Added Member To Class: ClassName=TEC_DRV Member=Component R163 4.7k
+Added Member To Class: ClassName=TEC_DRV Member=Component R164 4.7k
+Added Member To Class: ClassName=TEC_DRV Member=Component R165 4.7k
+Added Member To Class: ClassName=TEC_DRV Member=Component R166 4.7k

@@ -5,12 +5,20 @@ D:\LAB\NANORACK_V2_EXP_1.1.1_HW\01_DESIGN\EXP_HW_V3\Project Outputs for EXP_HW_V
 File Design Information:
 
 Date:       10/04/25
-Time:       15:31
-Revision:   Not in VersionControl
+Time:       21:07
+Revision:   bf39fc5953f4d4ab0d79c6b6121b92b1cb608445
 Variant:    No variations
 Units used: mm
 
 Designator Comment                Layer       Footprint                  Center-X(mm) Center-Y(mm) Rotation Description                                                                                  
+R166       4.7k                   BottomLayer RES_C_1608X60              48.4627      56.3762      0        SMD                                                                                          
+R165       4.7k                   BottomLayer RES_C_1608X60              36.6121      56.3762      0        SMD                                                                                          
+R164       4.7k                   BottomLayer RES_C_1608X60              24.2251      56.3762      0        SMD                                                                                          
+R163       4.7k                   BottomLayer RES_C_1608X60              12.2500      56.3762      0        SMD                                                                                          
+C51        0.1uF/10V              BottomLayer CAP_C_1608X80              48.4627      58.4186      180      ""                                                                                           
+C50        0.1uF/10V              BottomLayer CAP_C_1608X80              36.6120      58.4186      180      ""                                                                                           
+C49        0.1uF/10V              BottomLayer CAP_C_1608X80              24.2251      58.4186      180      ""                                                                                           
+C48        0.1uF/10V              BottomLayer CAP_C_1608X80              12.2500      58.4186      180      ""                                                                                           
 U10        ADM3065EARZ            BottomLayer SOIC8_3.9mm                68.6350      29.0250      270      "IC TRANSCEIVER HALF 1/1 8SOIC"                                                              
 R162       22R                    BottomLayer RES_C_1608X60              70.2024      16.7100      180      SMD                                                                                          
 R161       22R                    BottomLayer RES_C_1608X60              70.2024      19.0000      180      SMD                                                                                          
@@ -79,10 +87,10 @@ R153       4.7k                   BottomLayer RES_C_1608X60              5.7785 
 R138       10k                    TopLayer    RES_C_1608X60              28.4750      34.0946      0        SMD                                                                                          
 R119       22R                    TopLayer    RES_C_1608X60              28.4750      32.2686      180      SMD                                                                                          
 R118       22R                    TopLayer    RES_C_1608X60              28.4750      35.7803      180      SMD                                                                                          
-DAC4       MCP4921-E/SN           BottomLayer SO8                        43.3726      54.9000      90       "12 Bit Digital to Analog Converter, P/N: MCP4921-E/SN"                                      
-DAC3       MCP4921-E/SN           BottomLayer SO8                        31.5220      54.9000      90       "12 Bit Digital to Analog Converter, P/N: MCP4921-E/SN"                                      
-DAC2       MCP4921-E/SN           BottomLayer SO8                        19.1350      54.9000      90       "12 Bit Digital to Analog Converter, P/N: MCP4921-E/SN"                                      
-DAC1       MCP4921-E/SN           BottomLayer SO8                        7.1973       54.9000      90       "12 Bit Digital to Analog Converter, P/N: MCP4921-E/SN"                                      
+U24        MCP4921-E/SN           BottomLayer SO8                        43.3726      54.9000      90       "12 Bit Digital to Analog Converter, P/N: MCP4921-E/SN"                                      
+U23        MCP4921-E/SN           BottomLayer SO8                        31.5220      54.9000      90       "12 Bit Digital to Analog Converter, P/N: MCP4921-E/SN"                                      
+U20        MCP4921-E/SN           BottomLayer SO8                        19.1350      54.9000      90       "12 Bit Digital to Analog Converter, P/N: MCP4921-E/SN"                                      
+U11        MCP4921-E/SN           BottomLayer SO8                        7.1973       54.9000      90       "12 Bit Digital to Analog Converter, P/N: MCP4921-E/SN"                                      
 JP3        jumper2                TopLayer    JUMPER2                    18.7001      25.0002      180      ""                                                                                           
 R55        22R                    BottomLayer RES_C_1608X60              37.5596      17.0370      90       SMD                                                                                          
 R54        22R                    BottomLayer RES_C_1608X60              35.6411      17.0370      270      SMD                                                                                          
