@@ -1,0 +1,76 @@
+Added Component: Designator=C47(CAP_C_1608X80)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=R156(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R157(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R158(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R159(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R160(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R161(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R162(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=U10(SOIC8_3.9mm)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=+3.3 Pin=C47-2
+Added Pin To Net: NetName=+3.3 Pin=R156-1
+Added Pin To Net: NetName=GND Pin=R160-2
+Added Pin To Net: NetName=NetJ12_08 Pin=R161-1
+Added Pin To Net: NetName=NetJ12_06 Pin=R162-1
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=+3.3 Pin=U10-3
+Added Pin To Net: NetName=GND Pin=U10-5
+Added Pin To Net: NetName=+3.3 Pin=U10-8
+Added Pin To Net: NetName=NetR157_1 Pin=R157-1
+Added Pin To Net: NetName=NetR157_1 Pin=U10-4
+Added Net: Name=NetR157_1
+Added Pin To Net: NetName=NetR159_1 Pin=R159-1
+Added Pin To Net: NetName=NetR159_1 Pin=U10-1
+Added Net: Name=NetR159_1
+Added Pin To Net: NetName=RS485_A Pin=R156-2
+Added Pin To Net: NetName=RS485_A Pin=R158-1
+Added Pin To Net: NetName=RS485_A Pin=R161-2
+Added Pin To Net: NetName=RS485_A Pin=U10-6
+Added Net: Name=RS485_A
+Added Pin To Net: NetName=RS485_B Pin=R158-2
+Added Pin To Net: NetName=RS485_B Pin=R160-1
+Added Pin To Net: NetName=RS485_B Pin=R162-2
+Added Pin To Net: NetName=RS485_B Pin=U10-7
+Added Net: Name=RS485_B
+Added Pin To Net: NetName=RS485_USART1_RX Pin=R159-2
+Added Pin To Net: NetName=RS485_USART1_RX Pin=U12-69
+Added Net: Name=RS485_USART1_RX
+Added Pin To Net: NetName=RS485_USART1_TX Pin=R157-2
+Added Pin To Net: NetName=RS485_USART1_TX Pin=U12-68
+Added Net: Name=RS485_USART1_TX
+Added Class: Name=RS485
+Added Member To Class: ClassName=HEADER_1 Member=Component R161 22R
+Added Member To Class: ClassName=HEADER_1 Member=Component R162 22R

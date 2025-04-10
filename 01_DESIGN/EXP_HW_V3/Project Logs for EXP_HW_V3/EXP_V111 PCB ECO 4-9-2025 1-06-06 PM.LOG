@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=LED_G Pin=U12-68
+Removed Pin From Net: NetName=LED_B Pin=U12-69
+Change Component Library : Designator=DAC1 Old Library=Library.SchLib New Library=EXP_HW_V3.SchLib
+Change Component Library : Designator=DAC2 Old Library=Library.SchLib New Library=EXP_HW_V3.SchLib
+Change Component Library : Designator=DAC3 Old Library=Library.SchLib New Library=EXP_HW_V3.SchLib
+Change Component Library : Designator=DAC4 Old Library=Library.SchLib New Library=EXP_HW_V3.SchLib
+Change Component Library : Designator=U5 Old Library=Library.SchLib New Library=EXP_HW_V3.SchLib
+Change Component Library : Designator=U6 Old Library=Library.SchLib New Library=EXP_HW_V3.SchLib
+Change Component Library : Designator=U7 Old Library=Library.SchLib New Library=EXP_HW_V3.SchLib
+Change Component Library : Designator=U8 Old Library=Library.SchLib New Library=EXP_HW_V3.SchLib
+Added Pin To Net: NetName=LED_G Pin=U12-70
+Added Pin To Net: NetName=LED_B Pin=U12-71
