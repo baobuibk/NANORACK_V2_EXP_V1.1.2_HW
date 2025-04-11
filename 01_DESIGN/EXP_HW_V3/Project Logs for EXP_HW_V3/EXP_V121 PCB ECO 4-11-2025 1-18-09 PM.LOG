@@ -1,0 +1,8 @@
+Added Component: Designator=R168(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=R168-1
+Added Pin To Net: NetName=NetR167_1 Pin=R168-2
+Added Member To Class: ClassName=RS485 Member=Component R168 4.7k
